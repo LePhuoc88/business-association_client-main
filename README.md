@@ -4,7 +4,7 @@
 
 Bước 1. Clone project về máy:
 - Client: git clone https://github.com/LePhuoc88/business-association_client-main
-- Server: git clone https://github.com/LePhuoc88/business-association_server
+- Server: git clone https://github.com/LePhuoc88/business-association_server-main
 
 Bước 2: Truy cập vào thư mục src của 2 project và mở terminal ở vị trí này, thực hiện các lệnh (ở cả 2 project):
 - Đầu tiên, chạy lệnh: npm install
